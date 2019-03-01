@@ -6,5 +6,7 @@ public class HelloGit {
         System.out.println("CRYstaL_Jane");
         System.out.println("daydayup");
 
+        System.out.println("Just Do It ~~~");
+
     }
 }
